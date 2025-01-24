@@ -1,0 +1,44 @@
+body {
+    background-color: hsl(32, 64%, 68%);
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', sans-serif;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.text {
+    text-align: center;
+    font-size: 32px;
+    color: #db143c;
+}
+
+#bold-new {
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    font-size: 34px;
+    color: hsla(239, 87%, 22%, 0.836);
+}
+
+.change {
+    color: rgb(2, 83, 83);
+    font-size: 28px;
+}
+
+.ing {
+    font-size: 28px;
+    color: hsla(118, 96%, 22%, 0.945);
+}
+
+ul, ol, li {
+    font-size: 22px;
+    color: rgb(68, 30, 2);
+}
+
+a {
+    display: block;    
+    font-size: 22px;
+    color: #db143c;
+    margin: auto;
+    text-align: center;
+}
